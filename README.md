@@ -22,3 +22,10 @@ Remember that I will be updating and adding more applications to the list!
 [DuckDuckGo Browser](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android)
 
 [Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus)
+
+## Password Managers
+[Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
+
+[Proton Pass](https://play.google.com/store/apps/details?id=proton.android.pass)
+
+[KeePassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free)
