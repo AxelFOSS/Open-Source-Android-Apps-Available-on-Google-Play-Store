@@ -23,9 +23,130 @@ Remember that I will be updating and adding more applications to the list!
 
 [Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus)
 
+[Ceno Browser](https://play.google.com/store/apps/details?id=ie.equalit.ceno)
+
 ## Password Managers
 [Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
 
 [Proton Pass](https://play.google.com/store/apps/details?id=proton.android.pass)
 
 [KeePassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free)
+
+## Email Clients
+[Thunderbird](https://play.google.com/store/apps/details?id=net.thunderbird.android)
+
+[FairEmail](https://play.google.com/store/apps/details?id=eu.faircode.email)
+
+[K-9 Mail](https://play.google.com/store/apps/details?id=com.fsck.k9)
+
+## VPN
+[Proton VPN](https://play.google.com/store/apps/details?id=ch.protonvpn.android)
+
+[Mullvad VPN](https://play.google.com/store/apps/details?id=net.mullvad.mullvadvpn)
+
+[IVPN](https://play.google.com/store/apps/details?id=net.ivpn.client)
+
+[OpenVPN](https://play.google.com/store/apps/details?id=net.openvpn.openvpn)
+
+## Email Providers
+[Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
+
+[Tuta Mail](https://play.google.com/store/apps/details?id=de.tutao.tutanota)
+
+## Calendars
+[Fossify Calendar](https://play.google.com/store/apps/details?id=org.fossify.calendar)
+
+[Tuta Calendar](https://play.google.com/store/apps/details?id=de.tutao.calendar)
+
+## Cloud Storages
+[Proton Drive](https://play.google.com/store/apps/details?id=me.proton.android.drive)
+
+[Nextcloud](https://play.google.com/store/apps/details?id=com.nextcloud.client)
+
+## Navigation and Maps
+[Organic Maps](https://play.google.com/store/apps/details?id=app.organicmaps)
+
+[CoMaps](https://play.google.com/store/apps/details?id=app.comaps.google)
+
+[OsmAnd](https://play.google.com/store/apps/details?id=net.osmand)
+
+## Notes
+[Fossify Notes](https://play.google.com/store/apps/details?id=org.fossify.notes)
+
+[Joplin](https://play.google.com/store/apps/details?id=net.cozic.joplin)
+
+## Office Suites
+[LibreOffice](https://play.google.com/store/apps/details?id=org.documentfoundation.libreoffice)
+
+[OnlyOffice](https://play.google.com/store/apps/details?id=com.onlyoffice.documents)
+
+## Chat Apps
+[Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
+
+[Element](https://play.google.com/store/apps/details?id=im.vector.app)
+
+[Element X](https://play.google.com/store/apps/details?id=io.element.android.x)
+
+## Social Networks
+[Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android)
+
+[Bluesky](https://play.google.com/store/apps/details?id=xyz.blueskyweb.app)
+
+[Pixelfed](https://play.google.com/store/apps/details?id=com.pixelfed)
+
+## Cameras
+[Fossify Camera](https://play.google.com/store/apps/details?id=org.fossify.camera)
+
+[Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play)
+
+## PDF Viewers
+[MuPDF Viewer](https://play.google.com/store/apps/details?id=com.artifex.mupdf.viewer.app)
+
+[MuPDF Mini](https://play.google.com/store/apps/details?id=com.artifex.mupdf.mini.app)
+
+[Secure PDF Viewer](https://play.google.com/store/apps/details?id=app.grapheneos.pdfviewer.play)
+
+## AI Chatbots
+[DeepSeek](https://play.google.com/store/apps/details?id=com.deepseek.chat)
+
+[Lumo By Proton](https://play.google.com/store/apps/details?id=me.proton.android.lumo)
+
+## File Transfer
+[KDE Connect](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp)
+
+[LocalSend](https://play.google.com/store/apps/details?id=org.localsend.localsend_app)
+
+[OnionShare](https://play.google.com/store/apps/details?id=org.onionshare.android)
+
+## Photos
+[Fossify Gallery](https://play.google.com/store/apps/details?id=org.fossify.gallery)
+
+[Immich](https://play.google.com/store/apps/details?id=app.alextran.immich)
+
+[Ente Photos](https://play.google.com/store/apps/details?id=io.ente.photos)
+
+## Multimedia
+[Fossify Music Player](https://play.google.com/store/apps/details?id=org.fossify.musicplayer)
+
+[VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc)
+
+[MPV](https://play.google.com/store/apps/details?id=is.xyz.mpv)
+
+[Kodi](https://play.google.com/store/apps/details?id=org.xbmc.kodi)
+
+## Streaming
+[Odysee](https://play.google.com/store/apps/details?id=com.odysee.app)
+
+[PeerTube](https://play.google.com/store/apps/details?id=org.framasoft.peertube)
+
+[Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
+
+## Calculators
+[Fossify Calculator](https://play.google.com/store/apps/details?id=org.fossify.math)
+
+[Calculator You](https://play.google.com/store/apps/details?id=com.marktka.calculatorYou)
+
+## Keyboards
+[Fossify Keyboard](https://play.google.com/store/apps/details?id=org.fossify.keyboard)
+
+Remember that you can also search for open source Android apps available in the Google Play Store from [AlternativeTo](alternativeto.net) and [Privacy Guides](privacyguides.org)
