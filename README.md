@@ -149,4 +149,6 @@ Remember that I will be updating and adding more applications to the list!
 ## Keyboards
 [Fossify Keyboard](https://play.google.com/store/apps/details?id=org.fossify.keyboard)
 
+#
+
 Remember that you can also search for open source Android apps available in the Google Play Store from [AlternativeTo](alternativeto.net) and [Privacy Guides](privacyguides.org)
