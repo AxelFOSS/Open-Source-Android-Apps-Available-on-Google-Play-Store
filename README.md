@@ -48,6 +48,10 @@ Remember that I will be updating and adding more applications to the list!
 
 [OpenVPN](https://play.google.com/store/apps/details?id=net.openvpn.openvpn)
 
+[WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android)
+
+[Tor VPN](https://play.google.com/store/apps/details?id=org.torproject.vpn)
+
 ## Email Providers
 [Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
 
@@ -75,6 +79,14 @@ Remember that I will be updating and adding more applications to the list!
 
 [Joplin](https://play.google.com/store/apps/details?id=net.cozic.joplin)
 
+[Standard Notes](https://play.google.com/store/apps/details?id=com.standardnotes)
+
+[Notesnook](https://play.google.com/store/apps/details?id=com.streetwriters.notesnook)
+
+[AppFlowy](https://play.google.com/store/apps/details?id=io.appflowy.appflowy)
+
+[Simplenote](https://play.google.com/store/apps/details?id=com.automattic.simplenote)
+
 ## Office Suites
 [LibreOffice](https://play.google.com/store/apps/details?id=org.documentfoundation.libreoffice)
 
@@ -86,6 +98,16 @@ Remember that I will be updating and adding more applications to the list!
 [Element](https://play.google.com/store/apps/details?id=im.vector.app)
 
 [Element X](https://play.google.com/store/apps/details?id=io.element.android.x)
+
+[SimpleX Chat](https://play.google.com/store/apps/details?id=chat.simplex.app)
+
+[Briar](https://play.google.com/store/apps/details?id=org.briarproject.briar.android)
+
+[Wire](https://play.google.com/store/apps/details?id=com.wire)
+
+[Bitchat](https://play.google.com/store/apps/details?id=com.bitchat.droid)
+
+[Tox](https://play.google.com/store/apps/details?id=ltd.evilcorp.atox)
 
 ## Social Networks
 [Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android)
@@ -160,6 +182,8 @@ Remember that I will be updating and adding more applications to the list!
 ## Keyboards
 [Fossify Keyboard](https://play.google.com/store/apps/details?id=org.fossify.keyboard)
 
+[FUTO Keyboard](https://play.google.com/store/apps/details?id=org.futo.inputmethod.latin.playstore)
+
 ## Authenticators (2FA)
 [Proton Authenticator](https://play.google.com/store/apps/details?id=proton.android.authenticator)
 
@@ -189,6 +213,8 @@ Remember that I will be updating and adding more applications to the list!
 ## Launchers
 [Fossify Launcher](https://play.google.com/store/apps/details?id=org.fossify.home)
 
+[Lawnchair](https://play.google.com/store/apps/details?id=app.lawnchair.play)
+
 ## Voice Recorders
 [Fossify Voice Recorder](https://play.google.com/store/apps/details?id=org.fossify.voicerecorder)
 
@@ -197,6 +223,25 @@ Remember that I will be updating and adding more applications to the list!
 
 ## Clock Apps
 [Fossify Clock](https://play.google.com/store/apps/details?id=org.fossify.clock)
+
+## Encyclopedia
+[Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia)
+
+## Security and Privacy
+[AdGuard](https://play.google.com/store/apps/details?id=com.adguard.android.contentblocker)
+
+[Tos;DR (Terms of Service; Didn't Read)](https://play.google.com/store/apps/details?id=xyz.ptgms.tosdr)
+
+## Terminal Emulators
+[Termux](https://play.google.com/store/apps/details?id=com.termux)
+
+## App Uninstallers
+[Canta](https://play.google.com/store/apps/details?id=io.github.samolego.canta)
+
+## Podcasts
+[AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
+
+[Pocket Casts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)
 
 # You can also:
 Remember that you can also search for open source Android apps available in the Google Play Store from [AlternativeTo](https://alternativeto.net/) and [Privacy Guides](https://www.privacyguides.org/)
