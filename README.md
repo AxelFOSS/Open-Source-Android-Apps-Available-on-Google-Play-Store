@@ -127,8 +127,14 @@ Remember that I will be updating and adding more applications to the list!
 
 [Aves Gallery](https://play.google.com/store/apps/details?id=deckers.thibault.aves)
 
-## Multimedia
+[Image Toolbox](https://play.google.com/store/apps/details?id=ru.tech.imageresizershrinker)
+
+## Music Players
 [Fossify Music Player](https://play.google.com/store/apps/details?id=org.fossify.musicplayer)
+
+[Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
+
+## Multimedia Players
 
 [VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc)
 
@@ -149,6 +155,8 @@ Remember that I will be updating and adding more applications to the list!
 
 [Calculator You](https://play.google.com/store/apps/details?id=com.marktka.calculatorYou)
 
+[OpenCalc](https://play.google.com/store/apps/details?id=com.darkempire78.opencalculator)
+
 ## Keyboards
 [Fossify Keyboard](https://play.google.com/store/apps/details?id=org.fossify.keyboard)
 
@@ -160,5 +168,32 @@ Remember that I will be updating and adding more applications to the list!
 [Aegis Authenticator](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
 
 [Bitwarden Authenticator](https://play.google.com/store/apps/details?id=com.bitwarden.authenticator&hl=en&gl=US)
+
+## Image Editors
+[Sly](https://play.google.com/store/apps/details?id=page.kramo.sly)
+
+## Contact Apps
+[Fossify Contacts](https://play.google.com/store/apps/details?id=org.fossify.contacts)
+
+## SMS Apps
+[Fossify Messages](https://play.google.com/store/apps/details?id=org.fossify.messages)
+
+## Phone Apps
+[Fossify Phone](https://play.google.com/store/apps/details?id=org.fossify.phone)
+
+## File Managers
+[Fossify File Manager](https://play.google.com/store/apps/details?id=org.fossify.filemanager)
+
+## Launchers
+[Fossify Launcher](https://play.google.com/store/apps/details?id=org.fossify.home)
+
+## Voice Recorders
+[Fossify Voice Recorder](https://play.google.com/store/apps/details?id=org.fossify.voicerecorder)
+
+## Painting
+[Fossify Paint](https://play.google.com/store/apps/details?id=org.fossify.paint)
+
+## Clock Apps
+[Fossify Clock](https://play.google.com/store/apps/details?id=org.fossify.clock)
 
 Remember that you can also search for open source Android apps available in the Google Play Store from [AlternativeTo](alternativeto.net) and [Privacy Guides](privacyguides.org)
