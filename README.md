@@ -125,6 +125,8 @@ Remember that I will be updating and adding more applications to the list!
 
 [Ente Photos](https://play.google.com/store/apps/details?id=io.ente.photos)
 
+[Aves Gallery](https://play.google.com/store/apps/details?id=deckers.thibault.aves)
+
 ## Multimedia
 [Fossify Music Player](https://play.google.com/store/apps/details?id=org.fossify.musicplayer)
 
@@ -134,11 +136,12 @@ Remember that I will be updating and adding more applications to the list!
 
 [Kodi](https://play.google.com/store/apps/details?id=org.xbmc.kodi)
 
-## Streaming
+## Video Sharing/Hosting
 [Odysee](https://play.google.com/store/apps/details?id=com.odysee.app)
 
 [PeerTube](https://play.google.com/store/apps/details?id=org.framasoft.peertube)
 
+## Streaming
 [Stremio](https://play.google.com/store/apps/details?id=com.stremio.one)
 
 ## Calculators
@@ -149,6 +152,13 @@ Remember that I will be updating and adding more applications to the list!
 ## Keyboards
 [Fossify Keyboard](https://play.google.com/store/apps/details?id=org.fossify.keyboard)
 
-#
+## Authenticators (2FA)
+[Proton Authenticator](https://play.google.com/store/apps/details?id=proton.android.authenticator)
+
+[Ente Auth](https://play.google.com/store/apps/details?id=io.ente.auth)
+
+[Aegis Authenticator](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
+
+[Bitwarden Authenticator](https://play.google.com/store/apps/details?id=com.bitwarden.authenticator&hl=en&gl=US)
 
 Remember that you can also search for open source Android apps available in the Google Play Store from [AlternativeTo](alternativeto.net) and [Privacy Guides](privacyguides.org)
