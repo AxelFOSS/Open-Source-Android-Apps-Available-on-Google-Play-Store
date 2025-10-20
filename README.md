@@ -132,13 +132,15 @@ Remember that I will be updating and adding more applications to the list!
 
 [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
 
-## Multimedia Players
-
+## Video Players
 [VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc)
 
 [MPV](https://play.google.com/store/apps/details?id=is.xyz.mpv)
 
+## Media Centers
 [Kodi](https://play.google.com/store/apps/details?id=org.xbmc.kodi)
+
+[Jellyfin](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
 
 ## Video Sharing/Hosting
 [Odysee](https://play.google.com/store/apps/details?id=com.odysee.app)
@@ -196,4 +198,5 @@ Remember that I will be updating and adding more applications to the list!
 ## Clock Apps
 [Fossify Clock](https://play.google.com/store/apps/details?id=org.fossify.clock)
 
-Remember that you can also search for open source Android apps available in the Google Play Store from [AlternativeTo](alternativeto.net) and [Privacy Guides](privacyguides.org)
+# You can also:
+Remember that you can also search for open source Android apps available in the Google Play Store from [AlternativeTo](https://alternativeto.net/) and [Privacy Guides](https://www.privacyguides.org/)
