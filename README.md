@@ -127,8 +127,6 @@ Remember that I will be updating and adding more applications to the list!
 
 [Aves Gallery](https://play.google.com/store/apps/details?id=deckers.thibault.aves)
 
-[Image Toolbox](https://play.google.com/store/apps/details?id=ru.tech.imageresizershrinker)
-
 ## Music Players
 [Fossify Music Player](https://play.google.com/store/apps/details?id=org.fossify.musicplayer)
 
@@ -171,6 +169,8 @@ Remember that I will be updating and adding more applications to the list!
 
 ## Image Editors
 [Sly](https://play.google.com/store/apps/details?id=page.kramo.sly)
+
+[Image Toolbox](https://play.google.com/store/apps/details?id=ru.tech.imageresizershrinker)
 
 ## Contact Apps
 [Fossify Contacts](https://play.google.com/store/apps/details?id=org.fossify.contacts)
