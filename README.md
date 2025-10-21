@@ -92,6 +92,8 @@ Remember that I will be updating and adding more applications to the list!
 
 [OnlyOffice](https://play.google.com/store/apps/details?id=com.onlyoffice.documents)
 
+[AndrOpen Office](https://play.google.com/store/apps/details?id=com.andropenoffice)
+
 ## Chat Apps
 [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
 
@@ -242,6 +244,21 @@ Remember that I will be updating and adding more applications to the list!
 [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
 
 [Pocket Casts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)
+
+## Video Editors
+[Open Video Editor](https://play.google.com/store/apps/details?id=io.github.devhyper.openvideoeditor)
+
+## Torrent Clients
+[LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent)
+
+## System Information Apps
+[CPU Info](https://play.google.com/store/apps/details?id=com.kgurgul.cpuinfo)
+
+## Documents Reader
+[OpenDocument Reader](https://play.google.com/store/apps/details?id=at.tomtasche.reader)
+
+## Internet Speed Test Apps
+[OpenSpeedTest](https://play.google.com/store/apps/details?id=com.openspeedtest.server)
 
 # You can also:
 Remember that you can also search for open source Android apps available in the Google Play Store from [AlternativeTo](https://alternativeto.net/) and [Privacy Guides](https://www.privacyguides.org/)
