@@ -261,4 +261,4 @@ Remember that I will be updating and adding more applications to the list!
 [OpenSpeedTest](https://play.google.com/store/apps/details?id=com.openspeedtest.server)
 
 # You can also:
-Remember that you can also search for open source Android apps available in the Google Play Store from [AlternativeTo](https://alternativeto.net/) and [Privacy Guides](https://www.privacyguides.org/)
+Remember that you can also search for more open source applications for Android available in the Google Play Store from [AlternativeTo](https://alternativeto.net/)
