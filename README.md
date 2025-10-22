@@ -52,6 +52,8 @@ Remember that I will be updating and adding more applications to the list!
 
 [Tor VPN](https://play.google.com/store/apps/details?id=org.torproject.vpn)
 
+[Orbot](https://play.google.com/store/apps/details?id=org.torproject.android)
+
 ## Email Providers
 [Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
 
@@ -124,6 +126,8 @@ Remember that I will be updating and adding more applications to the list!
 [Fossify Camera](https://play.google.com/store/apps/details?id=org.fossify.camera)
 
 [Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play)
+
+[Open Camera](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera)
 
 ## PDF Viewers
 [MuPDF Viewer](https://play.google.com/store/apps/details?id=com.artifex.mupdf.viewer.app)
@@ -218,6 +222,8 @@ Remember that I will be updating and adding more applications to the list!
 ## File Managers
 [Fossify File Manager](https://play.google.com/store/apps/details?id=org.fossify.filemanager)
 
+[Material Files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)
+
 ## Launchers
 [Fossify Launcher](https://play.google.com/store/apps/details?id=org.fossify.home)
 
@@ -275,6 +281,9 @@ Remember that I will be updating and adding more applications to the list!
 
 ## YouTube Clients
 [WeTube](https://play.google.com/store/apps/details?id=free.mor.mordo.do)
+
+## File Sync
+[Syncthing-Fork](https://play.google.com/store/apps/details?id=com.github.catfriend1.syncthingandroid)
 
 # You can also:
 Remember that you can also search for more open source applications for Android available in the Google Play Store from [AlternativeTo](https://alternativeto.net/)
