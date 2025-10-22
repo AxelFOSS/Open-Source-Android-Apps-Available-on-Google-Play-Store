@@ -94,6 +94,8 @@ Remember that I will be updating and adding more applications to the list!
 
 [AndrOpen Office](https://play.google.com/store/apps/details?id=com.andropenoffice)
 
+[Collabora Office](https://play.google.com/store/apps/details?id=com.collabora.libreoffice)
+
 ## Chat Apps
 [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
 
@@ -142,6 +144,8 @@ Remember that I will be updating and adding more applications to the list!
 
 [OnionShare](https://play.google.com/store/apps/details?id=org.onionshare.android)
 
+[Zorin Connect](https://play.google.com/store/apps/details?id=com.zorinos.zorin_connect)
+
 ## Photos
 [Fossify Gallery](https://play.google.com/store/apps/details?id=org.fossify.gallery)
 
@@ -160,6 +164,8 @@ Remember that I will be updating and adding more applications to the list!
 [VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc)
 
 [MPV](https://play.google.com/store/apps/details?id=is.xyz.mpv)
+
+[NOVA Video Player](https://play.google.com/store/apps/details?id=org.courville.nova)
 
 ## Media Centers
 [Kodi](https://play.google.com/store/apps/details?id=org.xbmc.kodi)
@@ -259,6 +265,16 @@ Remember that I will be updating and adding more applications to the list!
 
 ## Internet Speed Test Apps
 [OpenSpeedTest](https://play.google.com/store/apps/details?id=com.openspeedtest.server)
+
+## Mastodon Clients
+[Moshidon](https://play.google.com/store/apps/details?id=org.joinmastodon.android.moshinda)
+
+[Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky&utm_source=github&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+
+[Fedilab](https://play.google.com/store/apps/details?id=app.fedilab.android)
+
+## YouTube Clients
+[WeTube](https://play.google.com/store/apps/details?id=free.mor.mordo.do)
 
 # You can also:
 Remember that you can also search for more open source applications for Android available in the Google Play Store from [AlternativeTo](https://alternativeto.net/)
