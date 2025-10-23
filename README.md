@@ -285,5 +285,33 @@ Remember that I will be updating and adding more applications to the list!
 ## File Sync
 [Syncthing-Fork](https://play.google.com/store/apps/details?id=com.github.catfriend1.syncthingandroid)
 
+## Blog Publishing
+[WordPress](https://play.google.com/store/apps/details?id=org.wordpress.android)
+
+## Game Developlment
+[Godot Engine](https://play.google.com/store/apps/details?id=org.godotengine.editor.v4)
+
+## Game Emulator
+[RetroArch](https://play.google.com/store/apps/details?id=com.retroarch)
+
+## Email Aliases
+[Addy.io](https://play.google.com/store/apps/details?id=host.stjin.anonaddy)
+
+[SimpleLogin](https://play.google.com/store/apps/details?id=io.simplelogin.android)
+
+## Device Integrity
+[Auditor](https://play.google.com/store/apps/details?id=app.attestation.auditor.play)
+
+## Lemmy Clients
+[Jerboa for Lemmy](https://play.google.com/store/apps/details?id=com.jerboa)
+
+[Voyager for Lemmy](https://play.google.com/store/apps/details?id=app.vger.voyager)
+
+[Summit for Lemmy](https://play.google.com/store/apps/details?id=com.idunnololz.summit)
+
+[Thunder for Lemmy](https://play.google.com/store/apps/details?id=com.hjiangsu.thunder)
+
+[Eternity for Lemmy](https://play.google.com/store/apps/details?id=eu.toldi.infinityforlemmy)
+
 # You can also:
 Remember that you can also search for more open source applications for Android available in the Google Play Store from [AlternativeTo](https://alternativeto.net/)
